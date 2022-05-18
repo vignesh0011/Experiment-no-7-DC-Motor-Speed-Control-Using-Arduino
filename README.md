@@ -1,4 +1,4 @@
-# Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino
+[# Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino
 ### AIM : To control the speed and the direction of a DC motor using L293D driver ic( H- bridge)
 
 ### Components Required:
@@ -31,3 +31,4 @@ As shown in the circuit diagram we need only 3 Arduino terminal pins, pin 8 is f
 
 ### RESULTS AND DISCUSSION 
 
+](https://github.com/chetansathishkumar/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino.git)
